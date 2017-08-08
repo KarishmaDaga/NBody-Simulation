@@ -1,2 +1,2 @@
 # NBody-Simulation
-Simulation of n bodies in space.
+Simulation of the **basic** physics of bodies in space and how they interact with each other.
